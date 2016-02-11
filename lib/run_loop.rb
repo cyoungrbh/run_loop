@@ -42,6 +42,7 @@ require "run_loop/http/error"
 require "run_loop/http/server"
 require "run_loop/http/request"
 require "run_loop/http/retriable_client"
+require "run_loop/dnssd"
 
 module RunLoop
 
